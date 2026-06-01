@@ -1,0 +1,131 @@
+p {
+  text-align: center;
+}
+
+body {
+  background-color: white;
+  background-image: url("Background_Image.jpg");
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+h6 {
+  text-align: center;
+}
+
+.pictureOfMe {
+  width: 300px;
+  float: none;
+  margin: 10px;
+  border-color:black;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 30px;
+}
+
+a {
+  color: black;
+}
+
+.aboutMe {
+  background-color: lightblue;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.home {
+  background-color: lightblue;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.donate {
+  background-color: lightblue;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.trailMap {
+  width: 300px;
+  float: none;
+  margin: 10px;
+  border-color:black;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 30px;
+}
+
+.runningSchedule {
+  background-color: lightblue;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.liveRun {
+  background-color: lightblue;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+.tiktok {
+  color: white;
+  text-decoration: none;
+}
+
+.youtube {
+  color: white;
+  text-decoration: none;
+}
+
+.instagram {
+  color: white;
+  text-decoration: none;
+}
+
+.socialMedia {
+  background-color: lightblue;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 5px;
+  text-decoration: none;
+}
